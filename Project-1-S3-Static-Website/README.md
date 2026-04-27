@@ -17,8 +17,17 @@ Successfully hosted a static website on AWS S3.
 - AWS S3
 - HTML
 
-## 📷 Screenshots
-(Attach screenshots here or mention below)
-
 ## 🔗 Live Website
-Paste your S3 website URL here
+http://suba-website-123.s3-website-us-east-1.amazonaws.com/
+
+## 📷 Screenshots
+- Bucket creation
+- File upload
+- Website output
+
+## 🎥 Demo Video
+https://drive.google.com/file/d/1poTemOCsW0CjLW6rtzOsnjQxJg_qFady/view?usp=drive_link
+
+
+
+
